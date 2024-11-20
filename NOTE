@@ -1,0 +1,22 @@
+1. C Auth L31 : 'departemen', 'nama'
+2. V Admin/index : departemen dan jabatan
+3. V navbar : nav Admin dept = IT, card pada profile, rekap kehadiran
+4. DB users : tambah tb_jabatan, Perbaikan struktur dan value
+5. M users : tambah model jabatan
+6. C izin L57, L83, dll : 'departemen', 'Directorate'
+7. C izin : pada method approval()
+8. V izin L21 : 'departemen'
+9. M izin : 'departemen'
+10. DB surat_izin : kolom dept diubah jadi departemen, tambah kolom nik
+11. V izin approval : pada bagian approval1 'departemen' dan 2 'if'
+11. R rekap kehadiran
+12. MVC DB surat_izin : penambahan nik pada systemasi izin 
+13. MVC rakap kehadiran : bikin pusing
+14. DB Users : tambah tabel departemen
+15. V rekap kehadiran : filter
+16. install composer require phpoffice/phpspreadsheet
+    extension=fileinfo
+    extension=gd
+    extension=zip
+17. V rekap kehadiran xls
+
